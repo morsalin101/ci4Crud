@@ -1,5 +1,7 @@
 CRUD Application with CodeIgniter 4
 This project is a simple CRUD (Create, Read, Update, Delete) application built using CodeIgniter 4 (CI4). The application includes user authentication (signup and login) and a management system for student records.
+Also i have used jquery,ajax
+
 
 Features
 User Signup and Login: Secure user authentication system.
